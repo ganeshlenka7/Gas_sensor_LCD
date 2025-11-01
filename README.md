@@ -28,7 +28,7 @@ This Arduino project monitors gas levels using an **analog + digital gas sensor*
 
 ## ⚡ Circuit Diagram
 
-![Circuit Diagram](Gas_sensor_LCD.png)
+![Circuit Diagram](Gas_sensor_Lcd.png)
 
 ---
 
